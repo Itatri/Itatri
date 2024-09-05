@@ -6,7 +6,7 @@ About me :
 - ✨ Has a hobby with Photography , Graphics, Music
 ## ![](https://komarev.com/ghpvc/?username=Itatri&abbreviated=true&color=orange)
 
-<a href="https://www.github.com/Itatri" target="_blank" rel="noreferrer">
+
 <img src="https://img.shields.io/github/followers/Itatri?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
   ### Skills 
 <p align="left">
