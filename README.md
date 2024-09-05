@@ -1,11 +1,11 @@
 ## <h2> Hi there, I'm Hoang Van Tri ! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-## About me :
+About me :
 - 🔭 I’m currently intern on ANBS Business Solution  
 - 🌱 I’m currently learning at Ho Chi Minh City University of Industry and Trade (HUIT)
 - 📫 How to reach me: trihoangvan16092003@gmail.com
 - ✨ Has a hobby with Photography , Graphics, Music
 ## <img src="https://img.shields.io/github/followers/Itatri?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>                  
-## My socials :        
+My socials :        
 <p align="left">
                       <a href="https://www.behance.com/thvfoto" target="_blank" rel="noreferrer">
                     <picture>
