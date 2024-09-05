@@ -5,7 +5,7 @@ About me :
 - 📫 How to reach me: trihoangvan16092003@gmail.com
 - ✨ Has a hobby with Photography , Graphics, Music
 ## <img src="https://img.shields.io/github/followers/Itatri?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>                  
-My Socials          
+My socials :        
 <p align="left">
                       <a href="https://www.behance.com/thvfoto" target="_blank" rel="noreferrer">
                     <picture>
@@ -48,7 +48,7 @@ My Socials
                     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" />
                     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" />
                     </picture>
-                        
+##                    
 ![](https://komarev.com/ghpvc/?username=Itatri&abbreviated=true&color=orange)
 
 
