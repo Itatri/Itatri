@@ -4,9 +4,10 @@ About me :
 - 🌱 I’m currently learning at Ho Chi Minh City University of Industry and Trade (HUIT)
 - 📫 How to reach me: trihoangvan16092003@gmail.com
 - ✨ Has a hobby with Photography , Graphics, Music
+## ![](https://komarev.com/ghpvc/?username=Itatri&abbreviated=true&color=orange)
 ##
 ## <img src="https://img.shields.io/github/followers/Itatri?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-## ![](https://komarev.com/ghpvc/?username=Itatri&abbreviated=true&color=orange)
+
 
 
 
