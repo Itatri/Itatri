@@ -5,6 +5,7 @@ About me : <br>
 - 🌱 I’m currently learning at Ho Chi Minh City University of Industry and Trade (HUIT) <br>
 - 📫 How to reach me: trihoangvan16092003@gmail.com <br>
 - ✨ I'm has a hobby with Photography , Graphics , Music , Sports <br>
+
 ##
 My socials :        
                     <p align="left">
@@ -68,7 +69,6 @@ My skills :
                     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36"                             height="36" alt="Git" /></a>
                       &nbsp;
                     <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36"                     height="36" alt="Java" /></a>
-
                       &nbsp;
                     <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36"                               height="36" alt="PHP" /></a>
                       &nbsp;
