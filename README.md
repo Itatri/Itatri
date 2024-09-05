@@ -5,8 +5,7 @@ About me :
 - 🌱 I’m currently learning at Ho Chi Minh City University of Industry and Trade (HUIT)
 - 📫 How to reach me: trihoangvan16092003@gmail.com
 - ✨ I'm has a hobby with Photography , Graphics , Music , Sports
-
-##              
+##
 My socials :        
                     <p align="left">
                     <a href="https://www.threads.net/@trihvn" target="_blank" rel="noreferrer">
