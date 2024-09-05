@@ -3,7 +3,7 @@ About me :
 - 🔭 I’m currently intern on ANBS Business Solution  
 - 🌱 I’m currently learning at Ho Chi Minh City University of Industry and Trade (HUIT)
 - 📫 How to reach me: trihoangvan16092003@gmail.com
-- ✨ Has a hobby with Photography , Graphics
+- ✨ Has a hobby with Photography , Graphics, Music
 ## ![](https://komarev.com/ghpvc/?username=Itatri&abbreviated=true&color=orange)
 <!--
 **Itatri/Itatri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
