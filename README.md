@@ -49,7 +49,8 @@ My socials :
                     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" />
                     </picture>
                     
-## ![](https://komarev.com/ghpvc/?username=Itatri&abbreviated=true&color=orange)
+![](https://komarev.com/ghpvc/?username=Itatri&abbreviated=true&color=orange)
+##
 
 
 
