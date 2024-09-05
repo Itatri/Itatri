@@ -1,10 +1,11 @@
 ##
  <h2> Hi there, I'm Hoang Van Tri ! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-About me :
+About me : <br>
 - 🔭 I’m currently intern on ANBS Business Solution  <br>
 - 🌱 I’m currently learning at Ho Chi Minh City University of Industry and Trade (HUIT) <br>
 - 📫 How to reach me: trihoangvan16092003@gmail.com <br>
 - ✨ I'm has a hobby with Photography , Graphics , Music , Sports <br>
+
 ##
 My socials :        
                     <p align="left">
