@@ -3,7 +3,7 @@
 About me : <br>
 - 🔭 I’m currently intern on ANBS Business Solution <br>
 - 🌱 I’m currently learning at Ho Chi Minh City University of Industry and Trade (HUIT) <br>
-- 📫 How to reach me: trihoangvan16092003@gmail.com <br>
+- 📫 Reach me at : trihoangvan16092003@gmail.com or my socials <br>
 - ✨ I'm has a hobby with Photography , Graphics , Music , Sports <br>
 
 ##
@@ -36,6 +36,7 @@ My socials :
                     <a href="https://www.behance.com/thvfoto" target="_blank" rel="noreferrer">
                     <picture>
                     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance-dark.svg" />
+
                     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" />
                     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" />
                     </picture>
