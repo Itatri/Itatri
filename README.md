@@ -4,7 +4,7 @@ About me : <br>
 - 🔭 I’m currently intern on ANBS Business Solution <br>
 - 🌱 I’m currently learning Information of Technology (IT) at Ho Chi Minh City University of Industry and Trade (HUIT) <br>
 - ✨ I have a hobby with Photography , Graphics , Music , Sports <br>
-- 📫 Reach me at : trihoangvan16092003@gmail.com or my socials <br>
+- 📫 Reach me at : trihoangvan16092003@gmail.com or My socials <br>
 
 ##
 My socials :        
