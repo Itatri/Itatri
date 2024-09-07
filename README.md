@@ -58,6 +58,8 @@
                     </a>
                     &nbsp;
                     </p>      
+
+                    
 ##
 <h3 align="left">My skills :</h3>    
                   <p align="left">
@@ -89,6 +91,8 @@
                       &nbsp;
                     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36"                            height="36" alt="Figma" /></a>
                   </p>
+
+                  
 ##
 
 ![HoangVanTri](https://github.com/user-attachments/assets/cb6c7a3f-d198-4c91-af54-b98f4451e0c8)
