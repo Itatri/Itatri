@@ -1,6 +1,6 @@
 ##
 <h2> Hi there, I'm Hoang Van Tri ! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<h3 align="left">About me :</h3>   <br>
+<h3 align="left">About me :</h3> 
 - 📂 I’m currently intern on ANBS Business Solution <br>
 - 🏫 I’m currently learning Information of Technology (IT) at Ho Chi Minh City University of Industry and Trade (HUIT) <br>
 - ✨ I have a hobby with Photography , Graphics , Music , Sports <br>
@@ -91,6 +91,7 @@
                     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36"                            height="36" alt="Figma" /></a>
                   </p>
 ##
+
 ![HoangVanTri](https://github.com/user-attachments/assets/cb6c7a3f-d198-4c91-af54-b98f4451e0c8)
 <h4 align="center">"What we learn with pleasure we will never forget."</h4>
 
