@@ -57,8 +57,7 @@
                     </picture>
                     </a>
                     &nbsp;
-                    </p>
-                
+                    </p>      
 ##
 <h3 align="left">My skills :</h3>    
                   <p align="left">
