@@ -92,6 +92,6 @@ My skills :
                   </p>
 ##
 ![HoangVanTri](https://github.com/user-attachments/assets/cb6c7a3f-d198-4c91-af54-b98f4451e0c8)
-"It’s what we think we know that keeps us from learning."
+"What we learn with pleasure we will never forget."
 ##
   ![](https://komarev.com/ghpvc/?username=Itatri&abbreviated=true&color=orange)  
