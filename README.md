@@ -92,6 +92,6 @@ My skills :
                   </p>
 ##
 ![HoangVanTri](https://github.com/user-attachments/assets/cb6c7a3f-d198-4c91-af54-b98f4451e0c8)
-"What we learn with pleasure we will never forget."
+<a align="center">"What we learn with pleasure we will never forget."</a>
 ##
 ![](https://komarev.com/ghpvc/?username=Itatri&abbreviated=true&color=orange)  
