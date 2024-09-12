@@ -1,7 +1,7 @@
 ##
 <h2> Hi there, I'm Hoang Van Tri ! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <h3 align="left">About me :</h3> 
-- 📂 I’m currently intern on ANBS Business Solution  <a href="https://www.threads.net/@trihvn" target="_blank" rel="noreferrer"> ANBS </a> <br>
+- 📂 I’m currently intern on <a href="https://www.facebook.com/profile.php?id=100063469303940" target="_blank" rel="noreferrer"> ANBS Business Solution </a> <br>
 - 🏫 I’m currently learning Information of Technology (IT) at Ho Chi Minh City University of Industry and Trade (HUIT) <br>
 - ✨ I have a hobby with Photography , Graphics , Music , Sports <br>
 - 📫 Reach me at : trihoangvan16092003@gmail.com or My socials <br>
