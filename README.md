@@ -1,13 +1,7 @@
 ##
 <h2> Hi there, I'm Hoang Van Tri ! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <h3 align="left">About me :</h3> 
-- 📂 I’m currently intern on ANBS Business Solution  <a href="https://www.threads.net/@trihvn" target="_blank" rel="noreferrer">
-                    <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" />
-                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" />
-                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" />
-                    </picture> 
-                    </a> <br>
+- 📂 I’m currently intern on ANBS Business Solution  <a href="https://www.threads.net/@trihvn" target="_blank" rel="noreferrer"> ANBS </a> <br>
 - 🏫 I’m currently learning Information of Technology (IT) at Ho Chi Minh City University of Industry and Trade (HUIT) <br>
 - ✨ I have a hobby with Photography , Graphics , Music , Sports <br>
 - 📫 Reach me at : trihoangvan16092003@gmail.com or My socials <br>
