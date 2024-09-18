@@ -5,7 +5,7 @@
 - 🏫 I’m currently learning Information of Technology (IT) at <a href="https://www.facebook.com/DhCongThuongHCM" target="_blank" rel="noreferrer"> HUIT - Trường Đại học Công Thương TP. Hồ Chí Minh </a> <br>
 - 📽️ I'm currently working in communications at  <a href="https://www.facebook.com/Media.DHCongThuong" target="_blank" rel="noreferrer"> HUIT MEDIA - Kênh thông tin và truyền thông Đại học Công Thương TPHCM </a> <br>
 - ✨ I have a hobby with Photography , Graphics , Music , Sports  <br>
-- 📫 Reach me at : <a href="trihoangvan16092003@gmail.com" target="_blank" rel="noreferrer"> trihoangvan16092003@gmail.com </a> or My socials <br>
+- 📫 Reach me at : trihoangvan16092003@gmail.com or My socials <br>
 
 ##
 <h3 align="left">My socials :</h3>    
