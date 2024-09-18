@@ -79,7 +79,6 @@
                       &nbsp; <br>
                           <img src="https://skillicons.dev/icons?i=mongodb,vscode,bootstrap,html,css,git" /><br>
                      &nbsp; <br>
-                     &nbsp;
                   <img src="https://skillicons.dev/icons?i=illustrator,ae,premiere,photoshop,figma,postman" />
                   </p>
 
