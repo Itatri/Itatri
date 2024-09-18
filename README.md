@@ -81,18 +81,13 @@
                      &nbsp; <br>
                   <img src="https://skillicons.dev/icons?i=illustrator,ae,premiere,photoshop,figma,postman" />
                   </p>
-
-                  
 ##
-
 ![HoangVanTri](https://github.com/user-attachments/assets/cb6c7a3f-d198-4c91-af54-b98f4451e0c8)
-
-
 ##
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting+;+Contact+me+for+work+on+My+socials">
 </h3>
 
-![](https://komarev.com/ghpvc/?username=Itatri&abbreviated=true&color=orange)  
+![](https://komarev.com/ghpvc/?username=Itatri&abbreviated=true&color=blue)  
 
 
