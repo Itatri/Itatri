@@ -79,7 +79,7 @@
                       &nbsp;
                     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36"                           height="36" alt="MySQL" /></a>
                         &nbsp;
-                      <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>    
+                      <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>    <br>
                       &nbsp; <br>
                           <img src="https://skillicons.dev/icons?i=bootstrap,html,css,git,github" /><br>
                      &nbsp; <br>
