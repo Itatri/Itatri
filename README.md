@@ -76,6 +76,8 @@
                         &nbsp;
                       <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a> 
                     <br>
+                     &nbsp; <br>
+                          <img src="https://skillicons.dev/icons?i=cs, c,dotnet, eclipse, java" /><br>
                       &nbsp; <br>
                           <img src="https://skillicons.dev/icons?i=mongodb,vscode,bootstrap,html,css,git" /><br>
                      &nbsp; <br>
