@@ -67,9 +67,9 @@
                      &nbsp; <br>
                           <img src="https://skillicons.dev/icons?i=cs,c,dotnet,java,mongodb,mysql,php" /><br>
                       &nbsp; <br>
-                          <img src="https://skillicons.dev/icons?i=eclipse,vscode,visualstudio,bootstrap,html,css,git" /><br>
+                          <img src="https://skillicons.dev/icons?i=eclipse,vscode,visualstudio,bootstrap,html,css,github" /><br>
                      &nbsp; <br>
-                  <img src="https://skillicons.dev/icons?i=illustrator,ae,premiere,photoshop,figma,postman,github" />
+                  <img src="https://skillicons.dev/icons?i=illustrator,ae,premiere,photoshop,figma,postman,git" />
                   </p>
 
                   
