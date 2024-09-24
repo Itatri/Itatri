@@ -1,5 +1,5 @@
 
-<h2> Hi there, I'm Tri <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi there, I'm Van Tri <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <h3 align="left">About me :</h3> 
 📂 I’m currently intern on <a href="https://www.facebook.com/profile.php?id=100063469303940" target="_blank" rel="noreferrer"> ANBS Business Solution </a>  <br>
 🏫 I’m currently learning Information of Technology (IT) at <a href="https://www.facebook.com/DhCongThuongHCM" target="_blank" rel="noreferrer"> HUIT - Trường Đại học Công Thương TP. Hồ Chí Minh </a>  <br>
