@@ -57,9 +57,9 @@
   <h3 align="left">My skills :</h3>    
                   <p align="left">
                      &nbsp; <br>
-                          <img src="https://skillicons.dev/icons?i=cs,c,dotnet,java,mongodb,mysql,php" /><br>
+                          <img src="https://skillicons.dev/icons?i=cs,c,dotnet,java,eclipse,mongodb,mysql" /><br>
                       &nbsp; <br>
-                          <img src="https://skillicons.dev/icons?i=eclipse,vscode,visualstudio,js,html,css,bootstrap" /><br>
+                          <img src="https://skillicons.dev/icons?i=php,vscode,visualstudio,js,html,css,bootstrap" /><br>
                      &nbsp; <br>
                   <img src="https://skillicons.dev/icons?i=illustrator,ae,premiere,photoshop,figma,postman,git" />
                   </p>
