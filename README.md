@@ -59,7 +59,7 @@
                      &nbsp; <br>
                           <img src="https://skillicons.dev/icons?i=cs,c,dotnet,eclipse,java,mongodb,mysql" /><br>
                       &nbsp; <br>
-                          <img src="https://skillicons.dev/icons?i=php,vscode,visualstudio,js,html,css,bootstrap" /><br>
+                          <img src="https://skillicons.dev/icons?i=vscode,visualstudio,js,html,css,bootstrap,php" /><br>
                      &nbsp; <br>
                   <img src="https://skillicons.dev/icons?i=illustrator,ae,premiere,photoshop,figma,postman,git" />
                   </p>
