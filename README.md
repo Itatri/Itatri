@@ -1,10 +1,5 @@
 
 <h2> Hi , I'm Tri <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-##
-
-
-![HoangVanTri](https://github.com/user-attachments/assets/cb6c7a3f-d198-4c91-af54-b98f4451e0c8)
-
 
 <h3 align="left">About me :</h3> 
 📂 I’m currently intern on <a href="https://www.facebook.com/profile.php?id=100063469303940" target="_blank" rel="noreferrer"> ANBS Business Solution </a>  <br>
@@ -71,7 +66,10 @@
                   </p>
 
                   
+##
 
+
+![HoangVanTri](https://github.com/user-attachments/assets/cb6c7a3f-d198-4c91-af54-b98f4451e0c8)
 
 
 ##
