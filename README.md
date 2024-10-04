@@ -9,7 +9,7 @@
 - 📫 Reach me at : trihoangvan16092003@gmail.com or My socials <br>
 
 
-##
+
 <h3 align="left">My socials :</h3>    
                     <p align="left">
                     <a href="https://www.threads.net/@trihvn" target="_blank" rel="noreferrer">
