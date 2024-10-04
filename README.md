@@ -4,7 +4,7 @@
 📂 I’m currently intern on <a href="https://www.facebook.com/profile.php?id=100063469303940" target="_blank" rel="noreferrer"> ANBS Business Solution </a>  <br>
 🏫 I’m currently learning Information of Technology (IT) at <a href="https://www.facebook.com/DhCongThuongHCM" target="_blank" rel="noreferrer"> HUIT - Trường Đại học Công Thương TP. Hồ Chí Minh </a>  <br>
 📽️ I'm currently working in communications at  <a href="https://www.facebook.com/Media.DHCongThuong" target="_blank" rel="noreferrer"> HUIT MEDIA - Kênh thông tin và truyền thông Đại học Công Thương TPHCM  </a>  <br>
-✨ I have a hobby with Photography , Graphics , Coding,  Music , Sports <br>
+✨ I have a hobby with Photography , Graphics , Coding ,  Music , Sports <br>
 📫 Reach me at : trihoangvan16092003@gmail.com or My socials <br>
 
 ##
