@@ -7,7 +7,7 @@
 📽️ I'm currently working in communications at  <a href="https://www.facebook.com/Media.DHCongThuong" target="_blank" rel="noreferrer"> HUIT MEDIA - Kênh thông tin và truyền thông Đại học Công Thương TPHCM  </a>  <br>
 ✨ I have a hobby with Photography , Graphics ,  Music , Sports <br>
 📫 Reach me at : trihoangvan16092003@gmail.com or My socials <br>
-
+- Open and friendly.
 ##
 <h3 align="left">My socials :</h3>    
                     <p align="left">
