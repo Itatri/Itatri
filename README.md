@@ -68,7 +68,7 @@
 
                   
 ##
-
+<h3 align="left">GitHub Stats :</h3>   
 ![Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Itatri&theme=algolia)
 
 
