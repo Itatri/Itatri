@@ -72,16 +72,15 @@
 
 ![Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Itatri&theme=algolia)
 
+<div align="center">
+    <img src="https://raw.githubusercontent.com/[YourGitHub]/[YourGitHub]/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
+</div>
 
 ##
 
 ![](https://komarev.com/ghpvc/?username=Itatri&abbreviated=true&color=blue)  
 
-<div align="center">
-    <p>
-        <img src="URL_OF_YOUR_GIF.gif" alt="Descriptive Text for the GIF" />
-    </p>
-</div>
+
 
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting+;+Contact+me+on+my+socials">
