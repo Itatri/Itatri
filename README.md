@@ -69,7 +69,7 @@
                   
 ##
 
-![Itatri's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Itatri&theme=react-dark&custom_title=Theme+react-dark&height=600&area=true)
+![Itatri's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Itatri&theme=react-dark&custom_title=Itatri&height=600&area=true)
 
 
 ##
