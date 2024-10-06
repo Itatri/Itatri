@@ -69,8 +69,7 @@
                   
 ##
 
-
-![HoangVanTri](https://github.com/user-attachments/assets/cb6c7a3f-d198-4c91-af54-b98f4451e0c8)
+![Itatri's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Itatri&theme=react-dark&custom_title=Theme+react-dark&height=600&area=true)
 
 
 ##
@@ -81,5 +80,5 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting+;+Contact+me+for+work+on+my+socials">
 </h3>
 
-![Itatri's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Itatri&theme=react-dark&custom_title=Theme+react-dark&height=600&area=true)
+
 
