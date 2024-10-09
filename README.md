@@ -72,7 +72,7 @@
 
 ![Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Itatri&theme=algolia)
 
-
+<img src="https://media.giphy.com/media/e0Uiyu70TXQAALdKP9/giphy.gif" width="20"> 
 
 ##
 
