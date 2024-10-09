@@ -56,7 +56,7 @@
 
                     
 ##
-  <h3 align="left">  My Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="14"> </h3>    
+  <h3 align="left">  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="14">  My Skills </h3>    
                   <p align="left">
                      &nbsp; <br>
                           <img src="https://skillicons.dev/icons?i=cs,c,dotnet,eclipse,java,mongodb,mysql" /><br>
@@ -68,7 +68,7 @@
 
                   
 ##
-<h3 align="left">   Github Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20"> </h3>   
+<h3 align="left">  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20">  Github Stats </h3>   
 
 ![Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Itatri&theme=algolia)
 
