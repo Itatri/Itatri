@@ -10,7 +10,7 @@
 
 
 ##
-<h3 align="left"> 🌍 My Socials  </h3>    
+<h3 align="left"> <iframe src="https://giphy.com/embed/e0Uiyu70TXQAALdKP9" width="20" height="20" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/Emoji-transparent-e0Uiyu70TXQAALdKP9">via GIPHY</a></p> My Socials  </h3>    
                     <p align="left">
                     <a href="https://www.threads.net/@trihvn" target="_blank" rel="noreferrer">
                     <picture>
