@@ -10,8 +10,7 @@
 
 
 ##
-<iframe src="https://giphy.com/embed/e0Uiyu70TXQAALdKP9" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/Emoji-transparent-e0Uiyu70TXQAALdKP9">via GIPHY</a></p>
-<h3 align="left">   <img src="[https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif](https://giphy.com/stickers/Emoji-transparent-e0Uiyu70TXQAALdKP9)" width="20"> My Socials  </h3>    
+<h3 align="left">   <img src="https://giphy.com/embed/e0Uiyu70TXQAALdKP9" width="20"> My Socials  </h3>    
                     <p align="left">
                     <a href="https://www.threads.net/@trihvn" target="_blank" rel="noreferrer">
                     <picture>
