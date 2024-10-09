@@ -10,8 +10,8 @@
 
 
 ##
-<h3 align="center"> <img src="https://media.giphy.com/media/e0Uiyu70TXQAALdKP9/giphy.gif" width="18"> My Socials  </h3>    
-                    <p align="center">
+<h3 align="left"> <img src="https://media.giphy.com/media/e0Uiyu70TXQAALdKP9/giphy.gif" width="18"> My Socials  </h3>    
+                    <p align="left">
                     <a href="https://www.threads.net/@trihvn" target="_blank" rel="noreferrer">
                     <picture>
                     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" />
@@ -56,8 +56,8 @@
 
                     
 ##
-  <h3 align="center"> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="15"  >  My Skills   </h3>    
-                  <p align="center">
+  <h3 align="left"> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="15"  >  My Skills   </h3>    
+                  <p align="left">
                      &nbsp; <br>
                           <img src="https://skillicons.dev/icons?i=cs,c,dotnet,eclipse,java,mongodb,mysql" /><br>
                       &nbsp; <br>
@@ -68,7 +68,7 @@
 
                   
 ##
-<h3 align="center">  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20">  Github Stats   </h3>   
+<h3 align="left">  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20">  Github Stats   </h3>   
 
 ![Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Itatri&theme=algolia)
 
@@ -80,7 +80,7 @@
 
 
 
-<h3 align="center">
+<h3 align="left">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting+;+Contact+me+on+my+socials">
 </h3>
 
