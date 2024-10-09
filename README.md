@@ -10,7 +10,7 @@
 
 
 ##
-<h3 align="left">My socials :</h3>    
+<h3 align="left">My Socials :</h3>    
                     <p align="left">
                     <a href="https://www.threads.net/@trihvn" target="_blank" rel="noreferrer">
                     <picture>
@@ -56,7 +56,7 @@
 
                     
 ##
-  <h3 align="left">My skills :</h3>    
+  <h3 align="left">My Skills :</h3>    
                   <p align="left">
                      &nbsp; <br>
                           <img src="https://skillicons.dev/icons?i=cs,c,dotnet,eclipse,java,mongodb,mysql" /><br>
@@ -68,7 +68,7 @@
 
                   
 ##
-<h3 align="left">Github stats :</h3>   
+<h3 align="left">Github Stats :</h3>   
 
 ![Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Itatri&theme=algolia)
 
