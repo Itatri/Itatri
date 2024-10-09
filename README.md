@@ -10,7 +10,7 @@
 
 
 ##
-<h3 align="left"> <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="30" height="30" class="giphy-embed"> My Socials   </h3>    
+<h3 align="left"> <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="20" height="20" class="giphy-embed"> My Socials   </h3>    
                     <p align="left">
                     <a href="https://www.threads.net/@trihvn" target="_blank" rel="noreferrer">
                     <picture>
@@ -68,7 +68,7 @@
 
                   
 ##
-<h3 align="left">  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Github Stats </h3>   
+<h3 align="left">  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20"> Github Stats </h3>   
 
 ![Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Itatri&theme=algolia)
 
