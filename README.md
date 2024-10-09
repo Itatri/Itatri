@@ -10,7 +10,7 @@
 
 
 ##
-<h3 align="left"> My Socials  <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="20" height="20" class="giphy-embed">  </h3>    
+<h3 align="left"> My Socials  <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="20" height="20" class="giphy-embed"> : </h3>    
                     <p align="left">
                     <a href="https://www.threads.net/@trihvn" target="_blank" rel="noreferrer">
                     <picture>
