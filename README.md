@@ -70,7 +70,7 @@
 ##
 <h3 align="left">    Github Stats   </h3>   
 
-![Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Itatri&theme=github_dark)
+![Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Itatri&theme=2077)
 
 
 
