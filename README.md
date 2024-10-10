@@ -69,11 +69,6 @@
                   
 ##
 <h3 align="left">    Github Stats   </h3>   
-<p align="center">
-
-![Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Itatri&theme=algolia)
-
-</p>
 
 ![Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Itatri&theme=algolia)
 
