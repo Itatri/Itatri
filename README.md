@@ -6,7 +6,7 @@
 - 📽️ I'm currently working in communications at  <a href="https://www.facebook.com/Media.DHCongThuong" target="_blank" rel="noreferrer"> HUIT MEDIA   </a>  <br>
 - ✨ I have a hobby with Photography , Graphics ,  Music , Sports <br>
 - 📫 Reach me at : trihoangvan16092003@gmail.com or My socials <br>
-- 🏫 I’m currently learning Information of Technology (IT) <br> at <a href="https://www.facebook.com/DhCongThuongHCM" target="_blank" rel="noreferrer"> Ho Chi Minh City University of Industry and Trade (HUIT) </a>  <br> 
+- 🏫 I’m currently learning Information of Technology (IT) at <br>  <a href="https://www.facebook.com/DhCongThuongHCM" target="_blank" rel="noreferrer"> Ho Chi Minh City University of Industry and Trade (HUIT) </a>  <br> 
 
 ##
 <h3 align="left">  My Socials  </h3>    
