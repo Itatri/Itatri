@@ -86,7 +86,7 @@
 
 <p align="center">
        <a href="https://github.com/Itatri">
-        <img alt="Itatri's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Itatri&bg_color=0D1117&color=1F6FEB&line=EB5454&point=58A6FF&hide_border=true&width=860&radius=8&theme=github-compact&area_color=1F6FEB&area=true&height=300&custom_title=My%20Contribution%20Graph" align="center" width="100%" />
+        <img alt="Itatri's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Itatri&bg_color=0D1117&color=1F6FEB&line=EB5454&point=58A6FF&hide_border=true&width=860&radius=8&theme=github-compact&area_color=1F6FEB&area=true&height=300&custom_title=Itatri%20Contribution%20Graph" align="center" width="100%" />
       </a>
 </p>
 
