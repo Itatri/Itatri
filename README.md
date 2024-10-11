@@ -92,6 +92,6 @@
 
 <p align="center">
      
-![Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Itatri&theme=2077)
+![Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Itatri&theme=2077$align="center")
 
 </p>
