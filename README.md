@@ -11,7 +11,7 @@
 
 ##
 <h3 align="left">  My Socials  </h3>    
-                    <p align="left">
+                    <p align="center">
                     <a href="https://www.threads.net/@trihvn" target="_blank" rel="noreferrer">
                     <picture>
                     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" />
