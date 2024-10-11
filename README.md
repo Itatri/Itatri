@@ -2,11 +2,11 @@
 <h3> Hi , I'm Tri <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="20" height="20" class="giphy-embed"> </h3> 
 
 ## <h3 align="left">About Me <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="30">  </h3> 
-- 📂 I’m currently intern on <a href="https://www.facebook.com/profile.php?id=100063469303940" target="_blank" rel="noreferrer"> ANBS Business Solution </a>  <br>  
+ <h4 align="center"> - 📂 I’m currently intern on <a href="https://www.facebook.com/profile.php?id=100063469303940" target="_blank" rel="noreferrer"> ANBS Business Solution </a>  <br>  
 - 📽️ I'm currently working in communications at  <a href="https://www.facebook.com/Media.DHCongThuong" target="_blank" rel="noreferrer"> HUIT MEDIA   </a>  <br>
 - ✨ I have a hobby with Photography , Graphics ,  Music , Sports <br>
 - 📫 Reach me at : trihoangvan16092003@gmail.com or My socials <br>
-- 🏫 I’m currently learning Information of Technology (IT)  at <a href="https://www.facebook.com/DhCongThuongHCM" target="_blank" rel="noreferrer"> Ho Chi Minh City University of Industry and Trade (HUIT) </a>  <br>
+- 🏫 I’m currently learning Information of Technology (IT)  at <a href="https://www.facebook.com/DhCongThuongHCM" target="_blank" rel="noreferrer"> Ho Chi Minh City University of Industry and Trade (HUIT) </a>  <br> </h4> 
 
 ##
 <h3 align="left">  My Socials  </h3>    
