@@ -7,7 +7,14 @@
 - 📽️ I'm currently working in communications at  <a href="https://www.facebook.com/Media.DHCongThuong" target="_blank" rel="noreferrer"> HUIT MEDIA   </a>  <br>
 - ✨ I have a hobby with Photography , Graphics ,  Music , Sports <br>
 - 📫 Reach me at : trihoangvan16092003@gmail.com or My socials <br>
+<div align="center">
 
+📂 I’m currently intern on <a href="https://www.facebook.com/profile.php?id=100063469303940" target="_blank" rel="noreferrer"> ANBS Business Solution </a>  <br>  
+🏫 I’m currently learning Information of Technology (IT) <br> at <a href="https://www.facebook.com/DhCongThuongHCM" target="_blank" rel="noreferrer"> Ho Chi Minh City University of Industry and Trade (HUIT) </a>  <br>
+📽️ I'm currently working in communications at  <a href="https://www.facebook.com/Media.DHCongThuong" target="_blank" rel="noreferrer"> HUIT MEDIA   </a>  <br>
+✨ I have a hobby with Photography , Graphics ,  Music , Sports <br>
+📫 Reach me at : trihoangvan16092003@gmail.com or My socials <br>
+ </div>
 
 ##
 <h3 align="left">  My Socials  </h3>    
