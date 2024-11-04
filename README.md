@@ -90,7 +90,11 @@
 
 ##
 
+<div align="center">
+ 
 ![](https://komarev.com/ghpvc/?username=Itatri&abbreviated=true&color=blue)  
+
+</div>
 
 
 <h3 align="center">
