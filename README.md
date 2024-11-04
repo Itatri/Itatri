@@ -60,8 +60,8 @@
 
                     
 ##
-  <h3 align="center">   My Skills   </h3>    
-                  <p align="left">
+  <h3 align="left">   My Skills   </h3>    
+                  <p align="center">
                      &nbsp; <br>
                           <img src="https://skillicons.dev/icons?i=cs,c,dotnet,eclipse,java,mongodb,mysql" /><br>
                       &nbsp; <br>
@@ -76,7 +76,7 @@
 
 
 
-<div align="left">
+<div align="center">
 <p>
 </p>
 
