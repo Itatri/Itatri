@@ -1,5 +1,5 @@
 
-<h1 align="center"> Hi , I'm Tri <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="20" height="20" class="giphy-embed"> </h1> 
+<h2 align="center"> Hi , I'm Tri <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="20" height="20" class="giphy-embed"> </h2> 
 
 
 <h3 align="center">About Me <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="30">  </h3> 
