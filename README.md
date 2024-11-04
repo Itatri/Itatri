@@ -4,10 +4,14 @@
 ## <h3 align="center">About Me <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="30">  </h3> 
 
 
+<div align="center">
+
+✨ I have a hobby with Photography , Graphics ,  Music , Sports 
+📫 Reach me at : trihoangvan16092003@gmail.com or My socials 
+ 
+ </div>
 
 
-- ✨ I have a hobby with Photography , Graphics ,  Music , Sports <br>
-- 📫 Reach me at : trihoangvan16092003@gmail.com or My socials <br>
  
 
 
