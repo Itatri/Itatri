@@ -2,7 +2,7 @@
 <h2 align="center"> Hi , I'm Tri <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="20" height="20" class="giphy-embed"> </h2> 
 
 
-<h3 align="center">About Me <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="30">  </h3> 
+<h3 align="left">About Me <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="30">  </h3> 
 
 
 <div align="center">
@@ -19,7 +19,7 @@
 
 
 ##
-<h3 align="center">  My Socials  </h3>    
+<h3 align="left">  My Socials  </h3>    
                     <p align="center">
                     <a href="https://www.threads.net/@trihvn" target="_blank" rel="noreferrer">
                     <picture>
@@ -65,7 +65,7 @@
 
                     
 ##
-  <h3 align="center">   My Skills   </h3>    
+  <h3 align="left">   My Skills   </h3>    
                   <p align="center">
                      &nbsp; <br>
                           <img src="https://skillicons.dev/icons?i=cs,c,dotnet,eclipse,java,mongodb,mysql" /><br>
@@ -77,7 +77,7 @@
 
                   
 ##
-<h3 align="center">    Github Stats   </h3>   
+<h3 align="left">    Github Stats   </h3>   
 
 
 
