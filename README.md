@@ -2,16 +2,7 @@
 <h2 align="center"> Hi , I'm Tri <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="20" height="20" class="giphy-embed"> </h2> 
 
 
-<h3 align="center">About Me <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="30">  </h3> 
 
-
-<div align="center">
-
-✨ I have a hobby with Photography , Graphics ,  Music , Sports <br>
-
-📫 Reach me at : **trihoangvan16092003@gmail.com** or **My socials**
- 
- </div>
 
 
  
@@ -19,7 +10,7 @@
 
 
 ##
-<h3 align="center">  My Socials  </h3>    
+<h3 align="center">  My Socials  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="30">    </h3>    
                     <p align="center">
                     <a href="https://www.threads.net/@trihvn" target="_blank" rel="noreferrer">
                     <picture>
