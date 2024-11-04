@@ -82,8 +82,7 @@
 
 
 <div align="center">
-<p>
-</p>
+
 
 ![Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Itatri&theme=2077)
 
