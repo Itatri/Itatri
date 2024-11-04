@@ -89,7 +89,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Itatri&abbreviated=true&color=blue)  
 
-
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGttdzBqMDJ3M3FkOHVjNThteTQzb2l1aTJxcWk2bzc3d2NzZTViMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R6gvnAxj2ISzJdbA63/giphy.gif"  class="giphy-embed">
 
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting+;+Contact+me+on+my+socials">
