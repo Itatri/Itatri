@@ -1,5 +1,5 @@
 
-<h2 align="center"> Hi , I'm Tri <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="20" height="20" class="giphy-embed"> </h2> 
+<h2 align="center"> Hi , I'm Hoang Van Tri <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="20" height="20" class="giphy-embed"> </h2> 
 
 
 
