@@ -7,6 +7,7 @@
 <div align="center">
 
 ✨ I have a hobby with Photography , Graphics ,  Music , Sports <br>
+
 📫 Reach me at : **trihoangvan16092003@gmail.com** or **My socials**
  
  </div>
