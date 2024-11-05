@@ -60,7 +60,7 @@
 
                     
 ##
-  <h4 align="center">   My Skills <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXNqZjA2ZHk4ZG1kdGY5ZXo4amtuamwyZ280Z3EyZzBtNzR0dHE0cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/oOylMv2oLDxcxGzYn6/giphy.gif" width="30" class="giphy-embed">    </h4>    
+  <h3 align="center">   My Skills <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXNqZjA2ZHk4ZG1kdGY5ZXo4amtuamwyZ280Z3EyZzBtNzR0dHE0cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/oOylMv2oLDxcxGzYn6/giphy.gif" width="30" class="giphy-embed">    </h3>    
                   <p align="center">
                      &nbsp; <br>
                           <img src="https://skillicons.dev/icons?i=cs,c,dotnet,eclipse,java,mongodb,mysql" /><br>
@@ -74,7 +74,7 @@
 ##
 
 
-<h4 align="center">  Github Stats <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmh4MHdidHhkdDF6aWdsZnU4cTlidW1wcmQ3MzZzd2Uyd2I3cHMxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GFvqHbPSI6LCcqkemF/giphy.gif" width="20" class="giphy-embed">  </h4>   
+<h3 align="center">  Github Stats <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmh4MHdidHhkdDF6aWdsZnU4cTlidW1wcmQ3MzZzd2Uyd2I3cHMxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GFvqHbPSI6LCcqkemF/giphy.gif" width="20" class="giphy-embed">  </h3>   
 
 
 
