@@ -10,7 +10,7 @@
 
 
 
-<h3 align="center">  My Socials  <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="20" height="20" class="giphy-embed">   </h3>    
+<h3 align="center">  My socials  <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="20" height="20" class="giphy-embed">   </h3>    
                     <p align="center">
                     <a href="https://www.threads.net/@trihvn" target="_blank" rel="noreferrer">
                     <picture>
@@ -56,7 +56,7 @@
 
                     
 ##
-  <h3 align="center">   My Skills   </h3>    
+  <h3 align="center">   My skills <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXNqZjA2ZHk4ZG1kdGY5ZXo4amtuamwyZ280Z3EyZzBtNzR0dHE0cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/oOylMv2oLDxcxGzYn6/giphy.gif" width="20" height="20" class="giphy-embed">    </h3>    
                   <p align="center">
                      &nbsp; <br>
                           <img src="https://skillicons.dev/icons?i=cs,c,dotnet,eclipse,java,mongodb,mysql" /><br>
