@@ -74,7 +74,7 @@
 </p>
                   
 ##
-<h3 align="center">    Github stats <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzQydWczZnZ0M3FlY3R6bHh3NGM1MjM0MmM4bmxqMHg3ZGU1Z21oOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2zeiYrwEPsOqTszYQm/giphy.gif" width="20" height="20" class="giphy-embed">  </h3>   
+<h3 align="center">    Github stats <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTYzb3h0aWs4bWozcDM3YXRrOXAwbHp2Nnp0NWw5enlzM2F5ZWYxcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dzNSRoWOZtGUbnTXgM/giphy.gif" width="20" height="20" class="giphy-embed">  </h3>   
 
 
 
