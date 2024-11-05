@@ -66,7 +66,7 @@
 </p>
 
 <h3 align="center">
-  <samp>&gt; Welcome to My Github <b><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNng3M2lydmgxMW5uNGR1d2oyNTFxcXhobTZzbXNlbDNrN214ZTBqZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UCQ5LookOT2ufbsGiT/giphy-downsized-large.gif" width="20" class="giphy-embed"></img></b></samp>
+  <samp>&gt; Welcome to My Github <b><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNng3M2lydmgxMW5uNGR1d2oyNTFxcXhobTZzbXNlbDNrN214ZTBqZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UCQ5LookOT2ufbsGiT/giphy-downsized-large.gif" width="20" class="giphy-embed"></b></samp>
 </h3>
                   
 ##
