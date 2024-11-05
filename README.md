@@ -1,13 +1,5 @@
 
-<h2 align="center"> Hi , I'm Tri  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="30"> </h2> 
-
-  <samp>&gt; Hi , I'm Tri <b><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="30"></img></b></samp>
-
-
-
- 
-
-
+<h3 align="center"> Hi , I'm Tri  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="30"> </h3> 
 
 
 <h3 align="center">  My socials  <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="20" height="20" class="giphy-embed">   </h3>    
