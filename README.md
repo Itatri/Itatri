@@ -64,12 +64,14 @@
 <p align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExenZ1Y21maXFwaGYzemZqaTI1ZnVwZHQ1dGxyNThvbHIwZG1xOG9wMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="giphy" />
 </p>
-                  
-##
-<h3 align="center">  Github stats <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmh4MHdidHhkdDF6aWdsZnU4cTlidW1wcmQ3MzZzd2Uyd2I3cHMxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GFvqHbPSI6LCcqkemF/giphy.gif" width="20" class="giphy-embed">  </h3>   
+
 <h3 align="center">
   <samp>&gt; Welcome to My Github <b><img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="30" height="30" class="giphy-embed"></img></b></samp>
 </h3>
+                  
+##
+<h3 align="center">  Github stats <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmh4MHdidHhkdDF6aWdsZnU4cTlidW1wcmQ3MzZzd2Uyd2I3cHMxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GFvqHbPSI6LCcqkemF/giphy.gif" width="20" class="giphy-embed">  </h3>   
+
 
 
 <div align="center">
