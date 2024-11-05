@@ -66,7 +66,7 @@
 </p>
 
 <h3 align="center">
-  <samp>&gt; Welcome to My Github <b><img src="https://media.giphy.com/media/rS6hNEBJYqy3Tfo9yS/giphy.gif" width="30" height="30" class="giphy-embed"></img></b></samp>
+  <samp>&gt; Welcome to My Github <b><img src="https://media.giphy.com/media/ou60s0z0v7JzSWGn8C/giphy.gif" width="30" height="30" class="giphy-embed"></img></b></samp>
 </h3>
                   
 ##
