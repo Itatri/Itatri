@@ -17,7 +17,7 @@
 
 ##
 <h3 align="center">
-  <samp> My Socials  <b><img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="20"  class="giphy-embed"></img></b></samp>
+  <samp> My Socials  <b><img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="15"  class="giphy-embed"></img></b></samp>
 </h3>
                     <p align="center">
                     <a href="https://www.threads.net/@trihvn" target="_blank" rel="noreferrer">
