@@ -16,7 +16,6 @@
                   
 
 ##
-<h3 align="center">  My Socials  <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="20"  class="giphy-embed">   </h3>    
 <h3 align="center">
   <samp> My Socials  <b><img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="20"  class="giphy-embed"></img></b></samp>
 </h3>
