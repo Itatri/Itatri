@@ -11,7 +11,7 @@
 </p>
 
 <h4 align="center">
-  <samp>&gt; Welcome to my Github <b><img src="https://media.giphy.com/media/TEdRZnV7l3S067fiGR/giphy.gif" width="30" height="30" class="giphy-embed"></img></b></samp>
+  <samp>&gt; Welcome to my Github <b><img src="https://media.giphy.com/media/TEdRZnV7l3S067fiGR/giphy.gif" width="20" class="giphy-embed"></img></b></samp>
 </h4>
                   
 
