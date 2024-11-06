@@ -4,7 +4,6 @@
   <samp>Hi , I'm Hoang Van Tri <b><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="30"></img></b></samp>
 </h2>
 
-##
 
 <h3 align="center">
   <samp>&gt; Welcome to my Github <b><img src="https://media.giphy.com/media/TEdRZnV7l3S067fiGR/giphy.gif" width="30" height="30" class="giphy-embed"></img></b></samp>
