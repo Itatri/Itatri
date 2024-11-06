@@ -80,9 +80,9 @@
 
 ##
 
-<h2 align="center">
+<h3 align="center">
   <samp> Github Stats <b> <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmh4MHdidHhkdDF6aWdsZnU4cTlidW1wcmQ3MzZzd2Uyd2I3cHMxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GFvqHbPSI6LCcqkemF/giphy.gif" width="20" class="giphy-embed"> </img></b></samp>
-</h2>
+</h3>
 
 
 
@@ -94,7 +94,7 @@
 
 </div>
 
-
+##
 
 
 <div align="center">
