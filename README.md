@@ -1,6 +1,9 @@
 
 <h3 align="center"> Hi , I'm Hoang Van Tri  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="30"> </h3> 
 
+<h3 align="center">
+  <samp>&gt; Hi , I'm Hoang Van Tri <b><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="30"></img></b></samp>
+</h3>
 ##
 
 <h3 align="center">
