@@ -1,4 +1,4 @@
-
+<a href="https://app.daily.dev/itatri"><img src="https://api.daily.dev/devcards/v2/NqoqpX6LnN2Kpr2JLjSGT.png?type=wide&r=lxh" width="652" alt="Hoàng Văn Trí's Dev Card"/></a>
 
 <h3 align="center">
   <samp>Hi , I'm Hoang Van Tri <b><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="30"></img></b></samp>
