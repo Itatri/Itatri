@@ -12,7 +12,7 @@
 
 
 <div align="center">
-<a href="https://app.daily.dev/itatri" ><img src="https://api.daily.dev/devcards/v2/NqoqpX6LnN2Kpr2JLjSGT.png?type=wide&r=5qi" width="652" alt="Hoàng Văn Trí's Dev Card"/></a>
+<a href="https://app.daily.dev/itatri"><img src="https://api.daily.dev/devcards/v2/NqoqpX6LnN2Kpr2JLjSGT.png?type=wide&r=t9u" width="652" alt="Hoàng Văn Trí's Dev Card"/></a>
   </div>
 <h4 align="center">
   <samp>&gt; Welcome to my Github <b><img src="https://media.giphy.com/media/TEdRZnV7l3S067fiGR/giphy.gif" width="20" class="giphy-embed"></img></b></samp>
