@@ -88,9 +88,7 @@
 
 <div align="center">
 
-<div align="center">
-<a href="https://app.daily.dev/itatri" ><img src="https://api.daily.dev/devcards/v2/NqoqpX6LnN2Kpr2JLjSGT.png?type=wide&r=5qi" width="652" alt="Hoàng Văn Trí's Dev Card"/></a>
-  </div>
+
 
 ![Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Itatri&theme=2077)
 
@@ -99,6 +97,9 @@
 
 ##
 
+<div align="center">
+<a href="https://app.daily.dev/itatri" ><img src="https://api.daily.dev/devcards/v2/NqoqpX6LnN2Kpr2JLjSGT.png?type=wide&r=5qi" width="652" alt="Hoàng Văn Trí's Dev Card"/></a>
+  </div>
 
 <div align="center">
  
