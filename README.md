@@ -4,6 +4,12 @@
   <samp>Hi , I'm Hoang Van Tri <b><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="30"></img></b></samp>
 </h3>
 
+
+
+<div align="center">
+<a href="https://app.daily.dev/itatri" ><img src="https://api.daily.dev/devcards/v2/NqoqpX6LnN2Kpr2JLjSGT.png?type=wide&r=5qi" width="652" alt="Hoàng Văn Trí's Dev Card"/></a>
+  </div>
+  
 ##
 
 <p align="center">
@@ -95,11 +101,7 @@
 
 </div>
 
-##
 
-<div align="center">
-<a href="https://app.daily.dev/itatri" ><img src="https://api.daily.dev/devcards/v2/NqoqpX6LnN2Kpr2JLjSGT.png?type=wide&r=5qi" width="652" alt="Hoàng Văn Trí's Dev Card"/></a>
-  </div>
 
 ##
 
