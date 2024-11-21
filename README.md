@@ -19,10 +19,6 @@
 <h3 align="center">
   <samp> My Socials  <b><img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="15"  class="giphy-embed"></img></b></samp>
 </h3>
-
-<div align="center">
-<a href="https://app.daily.dev/itatri" ><img src="https://api.daily.dev/devcards/v2/NqoqpX6LnN2Kpr2JLjSGT.png?type=wide&r=5qi" width="652" alt="Hoàng Văn Trí's Dev Card"/></a>
-  </div>
                     <p align="center">
                     <a href="https://www.threads.net/@trihvn" target="_blank" rel="noreferrer">
                     <picture>
@@ -92,6 +88,9 @@
 
 <div align="center">
 
+<div align="center">
+<a href="https://app.daily.dev/itatri" ><img src="https://api.daily.dev/devcards/v2/NqoqpX6LnN2Kpr2JLjSGT.png?type=wide&r=5qi" width="652" alt="Hoàng Văn Trí's Dev Card"/></a>
+  </div>
 
 ![Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Itatri&theme=2077)
 
