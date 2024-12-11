@@ -110,13 +110,15 @@
  <a href="https://app.daily.dev/itatri"><img src="https://api.daily.dev/devcards/v2/NqoqpX6LnN2Kpr2JLjSGT.png?type=wide&r=foo" width="652" alt="Hoàng Văn Trí's Dev Card"/></a>
   </div>
 
+##
+
 <div align="center">
  
 ![](https://komarev.com/ghpvc/?username=Itatri&abbreviated=true&color=blue)  
 
 </div>
 
-##
+
 
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting+;+Connect+me+on+my+Socials">
