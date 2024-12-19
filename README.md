@@ -68,7 +68,12 @@
                     </p>      
 
 
+##
 
+
+<div align="center">
+ <a href="https://app.daily.dev/itatri"><img src="https://api.daily.dev/devcards/v2/NqoqpX6LnN2Kpr2JLjSGT.png?type=wide&r=foo" width="652" alt="Hoàng Văn Trí's Dev Card"/></a>
+  </div>
                     
 ##
  
@@ -85,12 +90,7 @@
                   </p>
 
 
-##
 
-
-<div align="center">
- <a href="https://app.daily.dev/itatri"><img src="https://api.daily.dev/devcards/v2/NqoqpX6LnN2Kpr2JLjSGT.png?type=wide&r=foo" width="652" alt="Hoàng Văn Trí's Dev Card"/></a>
-  </div>
 
 ##
 <h3 align="center">
