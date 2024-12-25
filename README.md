@@ -90,11 +90,11 @@
 
 # 📊 Github Most Used Languages:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itatri&layout=donut-vertical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itatri&layout=donut-vertical"/>
   &nbsp;
   &nbsp;
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itatri&layout=pie"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itatri&layout=pie"/>
 </div>
 
 
