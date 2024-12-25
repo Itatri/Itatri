@@ -88,14 +88,6 @@
 <img src="https://skillicons.dev/icons?i=illustrator,ae,premiere,photoshop,figma,postman,git" />
 </p>
 
-# 📊 Github Most Used Languages:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itatri&layout=donut-vertical"/>
-  &nbsp;
-  &nbsp;
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itatri&layout=pie"/>
-</div>
 
 
 ##
