@@ -70,12 +70,7 @@
 ##
 
 
-<div align="center">
 
-  <a href="https://app.daily.dev/itatri"><img src="https://api.daily.dev/devcards/v2/NqoqpX6LnN2Kpr2JLjSGT.png?type=wide&r=3cb" width="652" alt="Hoàng Văn Trí's Dev Card"/></a>
-</div>
-                    
-##
  
 <h3 align="center">
   <samp> My Skills <b> <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXNqZjA2ZHk4ZG1kdGY5ZXo4amtuamwyZ280Z3EyZzBtNzR0dHE0cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/oOylMv2oLDxcxGzYn6/giphy.gif" width="30" class="giphy-embed"> </img></b></samp>
