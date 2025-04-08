@@ -12,7 +12,6 @@
    <samp>&gt; Welcome to my Github <b><img src="https://media.giphy.com/media/TEdRZnV7l3S067fiGR/giphy.gif" width="20" class="giphy-embed"></img></b></samp>
 </h4>
                   
-
 ##
 <h3 align="center">
   <samp> My Socials  <b><img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="15"  class="giphy-embed"></img></b></samp>
