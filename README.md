@@ -2,7 +2,8 @@
   <samp>Hi , I'm Tri <b><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="30"></img></b></samp>
 </h3>
 
-/*##*/
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">        
 
 <p align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExenZ1Y21maXFwaGYzemZqaTI1ZnVwZHQ1dGxyNThvbHIwZG1xOG9wMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="giphy" />
@@ -64,7 +65,8 @@
 &nbsp;
 </p>      
 
-##
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">        
  
 <h3 align="center">
   <samp> My Skills <b> <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXNqZjA2ZHk4ZG1kdGY5ZXo4amtuamwyZ280Z3EyZzBtNzR0dHE0cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/oOylMv2oLDxcxGzYn6/giphy.gif" width="30" class="giphy-embed"> </img></b></samp>
@@ -78,7 +80,8 @@
 <img src="https://skillicons.dev/icons?i=illustrator,ae,premiere,photoshop,figma,git" />
 </p>
 
-##
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">        
 
 <h3 align="center">
   <samp> Github Stats <b> <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmh4MHdidHhkdDF6aWdsZnU4cTlidW1wcmQ3MzZzd2Uyd2I3cHMxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GFvqHbPSI6LCcqkemF/giphy.gif" width="20" class="giphy-embed"> </img></b></samp>
@@ -90,7 +93,9 @@
 
 </div>
 
-##
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">        
+
 
 <div align="center">
 
