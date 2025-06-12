@@ -77,11 +77,11 @@
 </h3>
 <p align="center">
    &nbsp; <br>
-        <img src="https://skillicons.dev/icons?i=cs,c,dotnet,mongodb,postman,mysql" /><br>
+        <img src="https://skillicons.dev/icons?i=cs,c,dotnet,mongodb,postman,mysql,ts" /><br>
     &nbsp; <br>
-        <img src="https://skillicons.dev/icons?i=vscode,visualstudio,js,html,css,bootstrap" /><br>
+        <img src="https://skillicons.dev/icons?i=vscode,visualstudio,js,html,css,bootstrap,angular" /><br>
    &nbsp; <br>
-<img src="https://skillicons.dev/icons?i=illustrator,ae,premiere,photoshop,figma,git" />
+        <img src="https://skillicons.dev/icons?i=illustrator,ae,premiere,photoshop,figma,git,nodejs" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
