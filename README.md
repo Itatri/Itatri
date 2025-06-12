@@ -77,9 +77,9 @@
 </h3>
 <p align="center">
    &nbsp; <br>
-        <img src="https://skillicons.dev/icons?i=cs,c,dotnet,mongodb,postman,mysql,ts" /><br>
+        <img src="https://skillicons.dev/icons?i=cs,c,dotnet,mongodb,postman,mysql,git" /><br>
     &nbsp; <br>
-        <img src="https://skillicons.dev/icons?i=git,nodejs,angular,js,html,css,bootstrap" /><br>
+        <img src="https://skillicons.dev/icons?i=ts,nodejs,angular,js,html,css,bootstrap" /><br>
    &nbsp; <br>
         <img src="https://skillicons.dev/icons?i=vscode,visualstudio,illustrator,ae,premiere,photoshop,figma" />
 </p>
