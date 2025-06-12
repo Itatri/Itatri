@@ -79,9 +79,9 @@
    &nbsp; <br>
         <img src="https://skillicons.dev/icons?i=cs,c,dotnet,mongodb,postman,mysql,ts" /><br>
     &nbsp; <br>
-        <img src="https://skillicons.dev/icons?i=vscode,visualstudio,js,html,css,bootstrap,angular" /><br>
+        <img src="https://skillicons.dev/icons?i=git,nodejs,angular,js,html,css,bootstrap" /><br>
    &nbsp; <br>
-        <img src="https://skillicons.dev/icons?i=illustrator,ae,premiere,photoshop,figma,git,nodejs" />
+        <img src="https://skillicons.dev/icons?i=vscode,visualstudio,illustrator,ae,premiere,photoshop,figma" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
