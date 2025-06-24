@@ -82,10 +82,10 @@
 <div align="center">
 
 ![Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Itatri&theme=2077)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Itatri&theme=2077&exclude=java)
-![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/2-most-commit-language.svg)
-![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/3-stats.svg)
-![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/4-productive-time.svg)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Itatri&theme=2077&exclude=%20)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Itatri&theme=2077&exclude=%20)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Itatri&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Itatri&theme=2077&utcOffset=7)
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">        
