@@ -1,6 +1,6 @@
 
 <h3 align="left">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=10&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+,+I'm+Van+Tri">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&center=true&vCenter=true&width=500&height=20&duration=4000&lines=Hi+,+I'm+Van+Tri">
 </h3>
 
 
