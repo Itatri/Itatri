@@ -1,5 +1,5 @@
 
-<h3 align="left">
+<h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&center=true&vCenter=true&width=200&height=20&duration=4000&lines=Hi+,+I'm+Van+Tri+;+I'm+a+Web+Developer">
 </h3>
 
@@ -12,7 +12,7 @@
 <h3 align="left">
   <samp> My Socials  <b><img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="15"  class="giphy-embed"></img></b></samp>
 </h3>
-<p align="left">
+<p align="center">
 <a href="https://www.threads.net/@trihvn" target="_blank" rel="noreferrer">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" />
@@ -58,7 +58,7 @@
 <h3 align="left">
   <samp> My Skills <b> <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXNqZjA2ZHk4ZG1kdGY5ZXo4amtuamwyZ280Z3EyZzBtNzR0dHE0cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/oOylMv2oLDxcxGzYn6/giphy.gif" width="30" class="giphy-embed"> </img></b></samp>
 </h3>
-<p align="left">
+<p align="center">
    &nbsp; <br>
         <img src="https://skillicons.dev/icons?i=cs,c,dotnet,mongodb,postman,mysql,git" /><br>
     &nbsp; <br>
@@ -72,7 +72,7 @@
   <samp> Github Stats <b> <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmh4MHdidHhkdDF6aWdsZnU4cTlidW1wcmQ3MzZzd2Uyd2I3cHMxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GFvqHbPSI6LCcqkemF/giphy.gif" width="20" class="giphy-embed"> </img></b></samp>
 </h3>
 
-<div align="left">
+<div align="center">
 
 ![Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Itatri&theme=2077)
 ![Summary](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Itatri&theme=2077)
@@ -83,14 +83,14 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">        
 
-<div align="left">
+<div align="center">
 
 ![](https://komarev.com/ghpvc/?username=Itatri&abbreviated=true&color=blue)  
 
 </div>
 
 
-<h3 align="left">
+<h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&center=true&vCenter=true&width=240&height=20&duration=4000&lines=Thanks+for+visiting+;+Connect+me+on+my+Socials">
 </h3>
 
