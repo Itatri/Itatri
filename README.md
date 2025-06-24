@@ -10,9 +10,9 @@
 
 
 <h3 align="left">
-  <samp> My socials : </samp>
+  <samp> My socials  </samp>
 </h3>
-<p align="left">
+<p align="center">
 <a href="https://www.threads.net/@trihvn" target="_blank" rel="noreferrer">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" />
@@ -56,9 +56,9 @@
 </p>      
  
 <h3 align="left">
-  <samp> My skills : </samp>
+  <samp> My skills  </samp>
 </h3>
-<p align="left">
+<p align="center">
    &nbsp; <br>
         <img src="https://skillicons.dev/icons?i=cs,c,dotnet,mongodb,postman,mysql,git" /><br>
     &nbsp; <br>
@@ -69,10 +69,10 @@
 
 
 <h3 align="left">
-  <samp> Github stats : </samp>
+  <samp> Github stats  </samp>
 </h3>
 
-<div align="left">
+<div align="center">
 
 ![Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Itatri&theme=2077)
 
