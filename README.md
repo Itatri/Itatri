@@ -12,7 +12,7 @@
 <h3 align="left">
   <samp> My socials : </samp>
 </h3>
-<p align="center">
+<p align="left">
 <a href="https://www.threads.net/@trihvn" target="_blank" rel="noreferrer">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" />
@@ -58,7 +58,7 @@
 <h3 align="left">
   <samp> My skills : </samp>
 </h3>
-<p align="center">
+<p align="left">
    &nbsp; <br>
         <img src="https://skillicons.dev/icons?i=cs,c,dotnet,mongodb,postman,mysql,git" /><br>
     &nbsp; <br>
@@ -72,7 +72,7 @@
   <samp> Github stats : </samp>
 </h3>
 
-<div align="center">
+<div align="left">
 
 ![Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Itatri&theme=2077)
 
