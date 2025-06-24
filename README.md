@@ -55,9 +55,9 @@
 &nbsp;
 </p>      
  
-<h3 align="center">
+<h2 align="center">
   <samp> My skills  </samp>
-</h3>
+</h2>
 <p align="center">
    &nbsp; <br>
         <img src="https://skillicons.dev/icons?i=cs,c,dotnet,mongodb,postman,mysql,git" /><br>
@@ -68,9 +68,9 @@
 </p>
 
 
-<h3 align="center">
+<h2 align="center">
   <samp> Github stats  </samp>
-</h3>
+</h2>
 
 <div align="center">
 
