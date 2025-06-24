@@ -55,10 +55,10 @@
 &nbsp;
 </p>      
  
-<h3 align="center">
+<h3 align="left">
   <samp> My Skills <b> <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXNqZjA2ZHk4ZG1kdGY5ZXo4amtuamwyZ280Z3EyZzBtNzR0dHE0cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/oOylMv2oLDxcxGzYn6/giphy.gif" width="30" class="giphy-embed"> </img></b></samp>
 </h3>
-<p align="center">
+<p align="left">
    &nbsp; <br>
         <img src="https://skillicons.dev/icons?i=cs,c,dotnet,mongodb,postman,mysql,git" /><br>
     &nbsp; <br>
