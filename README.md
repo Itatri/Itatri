@@ -10,7 +10,7 @@
 
 
 <h3 align="left">
-  <samp> My Socials  </samp>
+  <samp> My socials  </samp>
 </h3>
 <p align="center">
 <a href="https://www.threads.net/@trihvn" target="_blank" rel="noreferrer">
@@ -56,7 +56,7 @@
 </p>      
  
 <h3 align="left">
-  <samp> My Skills </samp>
+  <samp> My skills </samp>
 </h3>
 <p align="center">
    &nbsp; <br>
@@ -69,7 +69,7 @@
 
 
 <h3 align="left">
-  <samp> Github Stats </samp>
+  <samp> Github stats </samp>
 </h3>
 
 <div align="center">
