@@ -82,7 +82,7 @@
 <div align="center">
 
 ![Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Itatri&theme=2077)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Itatri&theme=2077&exclude=%20)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Itatri&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Itatri&theme=2077&exclude=%20)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Itatri&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Itatri&theme=2077&utcOffset=7)
