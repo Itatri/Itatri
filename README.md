@@ -1,7 +1,10 @@
 <h3 align="center">
   <samp>Hi , I'm Tri <b><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="30"></img></b></samp>
-  <samp>&gt; Welcome to my Github <b><img src="https://media.giphy.com/media/TEdRZnV7l3S067fiGR/giphy.gif" width="20" class="giphy-embed"></img></b></samp>
 </h3>
+
+<h4 align="center">
+   <samp>&gt; Welcome to my Github <b><img src="https://media.giphy.com/media/TEdRZnV7l3S067fiGR/giphy.gif" width="20" class="giphy-embed"></img></b></samp>
+</h4>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">            
