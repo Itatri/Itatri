@@ -1,6 +1,6 @@
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&center=true&vCenter=true&width=200&height=20&duration=4000&lines=Hi+,+I'm+Van+Tri+;+I'm+a+Web+Developer">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&center=true&vCenter=true&width=300&height=70&duration=4000&lines=Hi+,+I'm+Van+Tri+;+I'm+a+Web+Developer">
 </h3>
 
 
@@ -89,6 +89,6 @@
 
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&center=true&vCenter=true&width=240&height=20&duration=4000&lines=Thanks+for+visiting+;+Connect+me+on+my+Socials">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&center=true&vCenter=true&width=300&height=70&duration=4000&lines=Thanks+for+visiting+;+Connect+me+on+my+Socials">
 </h3>
 
