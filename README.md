@@ -9,7 +9,7 @@
 
 
 
-<h3 align="center">
+<h3 align="left">
   <samp> My Socials  <b><img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="15"  class="giphy-embed"></img></b></samp>
 </h3>
 <p align="center">
