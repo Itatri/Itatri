@@ -9,7 +9,7 @@
 
 
 
-<h3 align="left">
+<h3 align="center">
   <samp> My socials  </samp>
 </h3>
 <p align="center">
@@ -55,7 +55,7 @@
 &nbsp;
 </p>      
  
-<h3 align="left">
+<h3 align="center">
   <samp> My skills  </samp>
 </h3>
 <p align="center">
@@ -68,7 +68,7 @@
 </p>
 
 
-<h3 align="left">
+<h3 align="center">
   <samp> Github stats  </samp>
 </h3>
 
