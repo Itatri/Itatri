@@ -16,7 +16,7 @@
 Quick Facts
 -------------------------
 Pronouns: He/Him
-Location: Go Vap, Ho Chi Minh
+Location: Ho Chi Minh City
 Frameworks: Angular, Ext.net, .Net
 Languages: C#, JavaScript, TypeScript, HTML, CSS
 Learning: Node.js, Angular
