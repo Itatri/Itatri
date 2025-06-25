@@ -24,9 +24,6 @@ Hobbies: Photography, Music, Travel, Coffee
 ```
 </p>
 
-```zsh
-> itatri socials
-```
 <p align="center">
     <a href="https://www.threads.net/@trihvn" target="_blank" rel="noreferrer">
     <picture>
