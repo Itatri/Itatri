@@ -22,10 +22,10 @@ Hobbies: Photography, Music, Travel, Coffee
 ```
 <p align="left">
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-    <img alt="#91c8e4" src="https://imageplaceholder.net/600x400/91c8e4/ffffff?text=ita" width="30" height="30" /> 
-    <img alt="#212121" src="https://imageplaceholder.net/600x400/212121/ffffff?text=ita" width="30" height="30" />
-    <img alt="#f5f5f5" src="https://imageplaceholder.net/600x400/f5f5f5/ffffff?text=ita" width="30" height="30" />
-    <img alt="#ffd6ba" src="https://imageplaceholder.net/600x400/ffd6ba/ffffff?text=ita" width="30" height="30" />
+    <img alt="#91c8e4" src="https://imageplaceholder.net/600x400/91c8e4/ffffff?text=..." width="30" height="30" /> 
+    <img alt="#212121" src="https://imageplaceholder.net/600x400/212121/ffffff?text=..." width="30" height="30" />
+    <img alt="#f5f5f5" src="https://imageplaceholder.net/600x400/f5f5f5/ffffff?text=..." width="30" height="30" />
+    <img alt="#ffd6ba" src="https://imageplaceholder.net/600x400/ffd6ba/ffffff?text=..." width="30" height="30" />
     
 </p>
 
