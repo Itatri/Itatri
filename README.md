@@ -1,3 +1,19 @@
+<style>
+  .profile-container {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+  }
+  .profile-image {
+    max-width: 320px;
+    width: 100%;
+    margin-right: 20px;
+  }
+  .profile-info {
+    flex: 1;
+    min-width: 200px;
+  }
+</style>
 
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&center=true&vCenter=true&width=300&height=70&duration=4000&lines=Hi+,+I'm+Van+Tri+;+I'm+a+Web+Developer">
@@ -6,7 +22,9 @@
 ```zsh
 > itatri profile
 ```
-<img align="left" src="https://github.com/user-attachments/assets/9c55840d-bcac-45b8-a09a-ca0af5c3fe7b" alt="Itatri Avatar" width="320" /> 
+<div class="profile-container">
+<img class="profile-image"  src="https://github.com/user-attachments/assets/9c55840d-bcac-45b8-a09a-ca0af5c3fe7b" alt="Itatri Avatar" width="320" /> 
+<div class="profile-info">
 
 ```csharp
 https://github.com/Itatri
@@ -26,7 +44,8 @@ Hobbies: Photography, Music, Travel, Coffee
     <img alt="#ffd6ba" src="https://imageplaceholder.net/600x400/ffd6ba/ffffff?text=ita" width="25" height="20" />
     
 </p>
-
+</div>
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">     
 
