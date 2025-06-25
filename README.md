@@ -10,6 +10,8 @@
 ```
 <img align="left" src="https://github.com/user-attachments/assets/9c55840d-bcac-45b8-a09a-ca0af5c3fe7b" alt="Itatri Avatar" width="320" /> 
 
+<p align="left">
+
 ```csharp
 https://github.com/Itatri
 -------------------------
@@ -20,6 +22,7 @@ Languages: C# ,JavaScript, TypeScript, HTML, CSS
 Learning: Node.js, Angular
 Hobbies: Photography, Music, Travel, Coffee
 ```
+</p>
 
 <p align="left">
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
