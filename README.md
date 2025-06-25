@@ -4,7 +4,7 @@
 </h3>
 
 ```zsh
-> itatri
+> itatri profile
 ```
 <img align="left" src="https://github.com/user-attachments/assets/9c55840d-bcac-45b8-a09a-ca0af5c3fe7b" alt="Itatri Avatar" width="320" /> 
 
@@ -73,6 +73,9 @@ Hobbies: Photography, Music, Travel, Coffee
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 
+```zsh
+> itatri skills
+```
 <h2 align="center">
   <samp> My skills  </samp>
 </h2>
