@@ -4,21 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&center=true&vCenter=true&width=300&height=70&duration=4000&lines=Hi+,+I'm+Van+Tri+;+I'm+a+Web+Developer">
 </h3>
 
-```zsh
-> itatri profile
-```
-<img  align="left"  src="https://github.com/user-attachments/assets/9c55840d-bcac-45b8-a09a-ca0af5c3fe7b" alt="Itatri Avatar" width="200" /> 
 
-```csharp
-https://github.com/Itatri
--------------------------
-Pronouns: He/Him
-Location: Go Vap, Ho Chi Minh
-Frameworks: Angular, Ext.net, .Net
-Languages: C# ,JavaScript, TypeScript, HTML, CSS
-Learning: Node.js, Angular
-Hobbies: Photography, Music, Travel, Coffee
-```
 ```zsh
 > itatri profile
 ```
