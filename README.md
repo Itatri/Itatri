@@ -83,12 +83,8 @@ Hobbies: Photography, Music, Travel, Coffee
 ```zsh
 > itatri profile
 ```
-<div style="display: flex; flex-wrap: wrap; align-items: flex-start;">
-  
-  <img src="https://github.com/user-attachments/assets/9c55840d-bcac-45b8-a09a-ca0af5c3fe7b" alt="Itatri Avatar" width="320" style="max-width: 100%; height: auto; margin-right: 10px;" />
-  
-  <div style="flex: 1; min-width: 200px;">
-      
+<img align="left" src="https://github.com/user-attachments/assets/9c55840d-bcac-45b8-a09a-ca0af5c3fe7b" alt="Itatri Avatar" width="200" />
+
 ```csharp
 https://github.com/Itatri
 -------------------------
@@ -107,8 +103,6 @@ Hobbies: Photography, Music, Travel, Coffee
     <img alt="#ffd6ba" src="https://imageplaceholder.net/600x400/ffd6ba/ffffff?text=ita" width="25" height="20" />
     
 </p>
-</div> 
-</div>
 
 ```zsh
 > itatri skills
