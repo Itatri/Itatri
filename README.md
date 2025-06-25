@@ -6,7 +6,7 @@
 ```zsh
 > itatri
 ```
-<img align="left" src="https://github.com/user-attachments/assets/47974029-ac02-48c3-915d-53f2e3e08efb" alt="Itatri Avatar" width="320" /> 
+<img align="left" src="https://avatars.githubusercontent.com/u/135131913?v=4" alt="Itatri Avatar" width="320" /> 
 
 ```csharp
 itatri@github
