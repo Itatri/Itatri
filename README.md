@@ -22,10 +22,13 @@ Languages: C# ,JavaScript, TypeScript, HTML, CSS
 Learning: Node.js, Angular
 Hobbies: Photography, Music, Travel, Coffee
 
-💻 I'm a passionate developer who enjoys turning complex problems into simple, beautiful solutions.
-🌟 I believe in writing clean, maintainable code and constantly learning new technologies.
+💻 I'm a passionate developer who enjoys turning complex problems into
+simple, beautiful solutions.
+🌟 I believe in writing clean, maintainable code and constantly learning
+new technologies.
 🚀 Currently exploring modern web development and cloud technologies.
-☕ When I'm not coding, you'll find me with my camera, traveling or sipping a good cup of coffee.
+☕ When I'm not coding, you'll find me with my camera, traveling or
+sipping a good cup of coffee.
 ```
 </p>
 
