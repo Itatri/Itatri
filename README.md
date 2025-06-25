@@ -13,7 +13,7 @@
 <p align="right">
 
 ```csharp
-https://github.com/Itatri
+Quick facts
 -------------------------
 Pronouns: He/Him
 Location: Go Vap, Ho Chi Minh
@@ -21,6 +21,7 @@ Frameworks: Angular, Ext.net, .Net
 Languages: C# ,JavaScript, TypeScript, HTML, CSS
 Learning: Node.js, Angular
 Hobbies: Photography, Music, Travel, Coffee
+Github : https://github.com/Itatri
 
 About me 
 -------------------------
