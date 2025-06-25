@@ -17,7 +17,7 @@ Quick Facts
 -------------------------
 Pronouns: He/Him
 Location: Ho Chi Minh City
-Frameworks: Angular, Ext.net, .Net
+Frameworks: Angular, Ext.Net, .Net
 Languages: C#, JavaScript, TypeScript, HTML, CSS
 Learning: Node.js, Angular
 Hobbies: Photography, Music, Travel, Coffee
