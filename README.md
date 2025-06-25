@@ -24,14 +24,10 @@ Hobbies: Photography, Music, Travel, Coffee
 
 About me 
 -------------------------
-💻 I'm a passionate developer who enjoys turning
- complex problems into simple, beautiful solutions.
-🌟 I believe in writing clean, maintainable code
-and constantly learning new technologies.
-🚀 Currently exploring modern web development and
- cloud technologies.
-☕ When I'm not coding, you'll find me with my
-camera, traveling or sipping a good cup of coffee.
+💻 I'm a passionate developer who enjoys turning complex problems into simple, beautiful solutions.
+🌟 I believe in writing clean, maintainable code and constantly learning new technologies.
+🚀 Currently exploring modern web development andcloud technologies.
+☕ When I'm not coding, you'll find me with my camera, traveling or sipping a good cup of coffee.
 ```
 </p>
 
