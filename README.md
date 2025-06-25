@@ -76,9 +76,7 @@ Hobbies: Photography, Music, Travel, Coffee
 ```zsh
 > itatri skills
 ```
-<h2 align="center">
-  <samp> My skills  </samp>
-</h2>
+
 <p align="center">
    &nbsp; <br>
         <img src="https://skillicons.dev/icons?i=cs,c,dotnet,mongodb,postman,mysql,git" /><br>
