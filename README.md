@@ -14,7 +14,7 @@ itatri@github
 -------------------------
 Pronouns: He/Him
 Location: Go Vap, Ho Chi Minh
-Frameworks: Angular
+Frameworks: Angular, Ext.net, .Net
 Languages: JavaScript, TypeScript,
            HTML, CSS
 Learning: Node.js, Angular
