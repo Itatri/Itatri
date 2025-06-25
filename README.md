@@ -7,7 +7,7 @@
 ```zsh
 > itatri profile
 ```
-<img  align="left"  src="https://github.com/user-attachments/assets/9c55840d-bcac-45b8-a09a-ca0af5c3fe7b" alt="Itatri Avatar" width="320" /> 
+<img  align="left"  src="https://github.com/user-attachments/assets/9c55840d-bcac-45b8-a09a-ca0af5c3fe7b" alt="Itatri Avatar" width="200" /> 
 
 ```csharp
 https://github.com/Itatri
@@ -19,14 +19,7 @@ Languages: C# ,JavaScript, TypeScript, HTML, CSS
 Learning: Node.js, Angular
 Hobbies: Photography, Music, Travel, Coffee
 ```
-<p align="left">
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-    <img alt="#91c8e4" src="https://imageplaceholder.net/600x400/91c8e4/ffffff?text=ita" width="25" height="20" /> 
-    <img alt="#212121" src="https://imageplaceholder.net/600x400/212121/ffffff?text=ita" width="25" height="20" />
-    <img alt="#f5f5f5" src="https://imageplaceholder.net/600x400/f5f5f5/ffffff?text=ita" width="25" height="20" />
-    <img alt="#ffd6ba" src="https://imageplaceholder.net/600x400/ffd6ba/ffffff?text=ita" width="25" height="20" />
-    
-</p>
+
 
 
 
