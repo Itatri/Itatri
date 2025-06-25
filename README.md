@@ -87,10 +87,9 @@ Hobbies: Photography, Music, Travel, Coffee
 </p>
 
 
-<h2 align="center">
-  <samp> Github stats  </samp>
-</h2>
-
+```zsh
+> itatri stats
+```
 <div align="center">
 
 ![Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Itatri&theme=2077)
