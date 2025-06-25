@@ -23,6 +23,7 @@ Learning: Node.js, Angular
 Hobbies: Photography, Music, Travel, Coffee
 ```
 </p>
+
 ```zsh
 > itatri socials
 ```
