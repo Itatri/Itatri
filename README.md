@@ -10,7 +10,7 @@
 ```
 <img align="left" src="https://github.com/user-attachments/assets/9c55840d-bcac-45b8-a09a-ca0af5c3fe7b" alt="Itatri Avatar" width="320" /> 
 
-<p align="left">
+<p align="right">
 
 ```csharp
 https://github.com/Itatri
@@ -24,7 +24,7 @@ Hobbies: Photography, Music, Travel, Coffee
 ```
 </p>
 
-<p align="left">
+<p align="right">
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
     <img alt="#91c8e4" src="https://imageplaceholder.net/600x400/91c8e4/ffffff?text=..." width="30" height="30" /> 
     <img alt="#212121" src="https://imageplaceholder.net/600x400/212121/ffffff?text=..." width="30" height="30" />
