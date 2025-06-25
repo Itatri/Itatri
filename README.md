@@ -6,8 +6,6 @@
 ```zsh
 > itatri
 ```
-![itatri](https://github.com/user-attachments/assets/47974029-ac02-48c3-915d-53f2e3e08efb)
-
 <img align="left" src="https://github.com/user-attachments/assets/47974029-ac02-48c3-915d-53f2e3e08efb" alt="Itatri Avatar" width="320" /> 
 
 ```csharp
