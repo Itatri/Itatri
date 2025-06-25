@@ -117,6 +117,6 @@ About Me
 
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&center=true&vCenter=true&width=300&height=70&duration=4000&lines=Thanks+for+visiting+🫶🏻+;+Connect+me+on+my+Socials+🌏">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&center=true&vCenter=true&width=300&height=70&duration=4000&lines=Thanks+for+visiting+👀+;+Connect+me+on+my+Socials+🌏">
 </h3>
 
