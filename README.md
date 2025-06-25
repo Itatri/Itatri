@@ -29,12 +29,13 @@ Hobbies: Photography, Music, Travel, Coffee
     <img alt="#ffd6ba" src="https://imageplaceholder.net/600x400/ffd6ba/ffffff?text=..." width="30" height="30" />
 </p>
 
-<div style="display: flex; flex-wrap: wrap; align-items: center;">
-  
-  <div style="flex: 1; min-width: 250px;">
 ```zsh
 > itatri profile
 ```
+<div style="display: flex; flex-wrap: wrap; align-items: center;">
+  
+  <div style="flex: 1; min-width: 250px;">
+
 <img align="left" src="https://github.com/user-attachments/assets/9c55840d-bcac-45b8-a09a-ca0af5c3fe7b" alt="Itatri Avatar" width="320" /> 
 
 ```csharp
