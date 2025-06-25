@@ -29,6 +29,36 @@ Hobbies: Photography, Music, Travel, Coffee
 </p>
 
 
+```zsh
+> itatri profile
+```
+<div style="display: flex; flex-wrap: wrap; align-items: flex-start;">
+  
+  <img src="https://github.com/user-attachments/assets/9c55840d-bcac-45b8-a09a-ca0af5c3fe7b" alt="Itatri Avatar" width="320" style="max-width: 100%; height: auto; margin-right: 10px;" />
+  
+  <div style="flex: 1; min-width: 200px;">
+      
+```csharp
+https://github.com/Itatri
+-------------------------
+Pronouns: He/Him
+Location: Go Vap, Ho Chi Minh
+Frameworks: Angular, Ext.net, .Net
+Languages: C# ,JavaScript, TypeScript, HTML, CSS
+Learning: Node.js, Angular
+Hobbies: Photography, Music, Travel, Coffee
+```
+<p align="left">
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+    <img alt="#91c8e4" src="https://imageplaceholder.net/600x400/91c8e4/ffffff?text=ita" width="25" height="20" /> 
+    <img alt="#212121" src="https://imageplaceholder.net/600x400/212121/ffffff?text=ita" width="25" height="20" />
+    <img alt="#f5f5f5" src="https://imageplaceholder.net/600x400/f5f5f5/ffffff?text=ita" width="25" height="20" />
+    <img alt="#ffd6ba" src="https://imageplaceholder.net/600x400/ffd6ba/ffffff?text=ita" width="25" height="20" />
+    
+</p>
+</div> 
+</div>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">     
 
 
