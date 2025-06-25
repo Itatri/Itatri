@@ -23,7 +23,7 @@ Hobbies: Photography, Music, Travel, Coffee
 <p align="left">
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
     <img alt="#91c8e4" src="https://imageplaceholder.net/600x400/91c8e4/ffffff?text=ita" width="25" height="20" /> 
-    <img alt="#c9594d" src="https://imageplaceholder.net/600x400/c9594d/ffffff?text=ita" width="25" height="20" />
+    <img alt="#212121" src="https://imageplaceholder.net/600x400/212121/ffffff?text=ita" width="25" height="20" />
     <img alt="#f8b9b2" src="https://imageplaceholder.net/600x400/f8b9b2/ffffff?text=ita" width="25" height="20" />
     <img alt="#ae9c9d" src="https://imageplaceholder.net/600x400/ae9c9d/ffffff?text=ita" width="25" height="20" />
 </p>
