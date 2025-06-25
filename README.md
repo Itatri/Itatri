@@ -14,7 +14,7 @@ https://github.com/Itatri
 Pronouns: He/Him
 Location: Go Vap, Ho Chi Minh
 Frameworks: Angular, Ext.net, .Net
-Languages: JavaScript, TypeScript,
+Languages: C# ,JavaScript, TypeScript,
            HTML, CSS
 Learning: Node.js, Angular
 Hobbies: Photography, Music, Travel, Coffee
