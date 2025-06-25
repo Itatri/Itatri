@@ -9,7 +9,7 @@
 <img align="left" src="https://github.com/user-attachments/assets/9c55840d-bcac-45b8-a09a-ca0af5c3fe7b" alt="Itatri Avatar" width="320" /> 
 
 ```csharp
-itatri@github
+https://github.com/Itatri
 -------------------------
 Pronouns: He/Him
 Location: Go Vap, Ho Chi Minh
