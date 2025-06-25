@@ -25,6 +25,9 @@ Hobbies: Photography, Music, Travel, Coffee
     <img alt="#212121" src="https://imageplaceholder.net/600x400/212121/ffffff?text=ita" width="25" height="20" />
     <img alt="#f5f5f5" src="https://imageplaceholder.net/600x400/f5f5f5/ffffff?text=ita" width="25" height="20" />
     <img alt="#ffd6ba" src="https://imageplaceholder.net/600x400/ffd6ba/ffffff?text=ita" width="25" height="20" />
+    
+</p>
+<p align="left">
     <a href="https://www.threads.net/@trihvn" target="_blank" rel="noreferrer">
     <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" />
