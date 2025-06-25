@@ -21,7 +21,6 @@ Frameworks: Angular, Ext.net, .Net
 Languages: C# ,JavaScript, TypeScript, HTML, CSS
 Learning: Node.js, Angular
 Hobbies: Photography, Music, Travel, Coffee
-Github : https://github.com/Itatri
 
 About me 
 -------------------------
