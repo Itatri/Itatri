@@ -20,9 +20,6 @@ Languages: C# ,JavaScript, TypeScript, HTML, CSS
 Learning: Node.js, Angular
 Hobbies: Photography, Music, Travel, Coffee
 ```
-</br>
-</br>
-</br>
 
 <p align="left">
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
