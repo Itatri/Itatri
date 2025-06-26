@@ -106,14 +106,15 @@ About Me
 
 ![Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Itatri&theme=2077)
 
+
+</div>
+
 <br>
 <p align='center'>
 <img src="./profile-3d-contrib/profile-night-view.svg">
 </p>
 <hr>
 <br>
-
-</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">        
 
