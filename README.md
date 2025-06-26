@@ -115,6 +115,7 @@ About Me
 
 ![](https://komarev.com/ghpvc/?username=Itatri&abbreviated=true&color=blue)  
 <p align='center'>
+    
 <img src="https://komarev.com/ghpvc/?username=Itatri&abbreviated=true&color=blue">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/github/followers/Itatri?style=social">&nbsp;&nbsp;&nbsp;&nbsp;
 <!-- <img src="https://visitor-badge.glitch.me/badge?page_id=chinmay29hub.visitor-badge"> -->
