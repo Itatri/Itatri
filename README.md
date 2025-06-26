@@ -15,6 +15,7 @@
 <p align="right">
 
 ```csharp
+-------------------------
 Quick Facts
 -------------------------
 Pronouns: He/Him
@@ -23,7 +24,7 @@ Frameworks: Angular, Ext.Net, .Net
 Languages: C#, JavaScript, TypeScript, HTML, CSS
 Learning: Node.js, Angular
 Hobbies: Photography, Music, Travel, Coffee
-
+-------------------------
 About Me
 -------------------------
 💻 I'm a passionate developer who enjoys turning complex problems into simple, beautiful solutions.
