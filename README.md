@@ -81,10 +81,6 @@ About Me
 
 </p>
 </div>
-
-<h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&center=true&vCenter=true&width=300&height=70&duration=4000&lines=Thanks+for+visiting+👀+;+Connect+me+on+my+Socials+🌏">
-</h3>
 <p align="center">
     <a href="https://www.threads.net/@trihvn" target="_blank" rel="noreferrer">
     <picture>
@@ -127,6 +123,10 @@ About Me
     </a>
     &nbsp;
 </p>
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&center=true&vCenter=true&width=300&height=70&duration=4000&lines=Thanks+for+visiting+👀+;+Connect+me+on+my+Socials+🌏">
+</h3>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"/>
 </p>
