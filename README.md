@@ -23,7 +23,7 @@ Quick Facts
 Pronouns: He/Him
 Location: Ho Chi Minh City
 Workplace: ANBS Business Solution
-Frameworks: Angular, Ext.Net, .Net
+Frameworks: Ext.Net, .Net
 Languages: C#, JavaScript, TypeScript, HTML, CSS
 Learning: Node.js, Angular
 Hobbies: Photography, Music, Travel, Coffee
