@@ -26,7 +26,7 @@ Workplace: ANBS Business Solution
 Frameworks: Ext.Net, .Net
 Languages: C#, JavaScript, TypeScript, HTML, CSS
 Learning: Node.js, Angular
-Hobbies: Photography, Music, Travel, Coffee
+Hobbies: Media, Music, Travel, Coffee
 
 About Me
 -------------------------
