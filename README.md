@@ -22,7 +22,7 @@ Quick Facts
 -------------------------
 Pronouns: He/Him
 Location: Ho Chi Minh City
-Workplace: ANBS Business Solution
+Workplace: SRE Company Limited
 Frameworks: Ext.Net, .Net
 Languages: C#, JavaScript, TypeScript, HTML, CSS
 Learning: Node.js, Angular
