@@ -26,7 +26,7 @@ Workplace: SRE Company Limited
 Frameworks: Ext.Net, .Net
 Languages: C#, JavaScript, TypeScript, HTML, CSS
 Learning: Node.js, Angular
-Hobbies: Media, Music, Travel, Coffee
+Hobbies: Media, Music, Travel, Coffee, Gym, Football, Badminton
 
 About Me
 -------------------------
