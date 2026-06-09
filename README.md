@@ -1,4 +1,3 @@
-<img width="800" height="800" alt="1780996466573" src="https://github.com/user-attachments/assets/d1753da3-17e9-440b-844f-17cf9544ad22" />
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=header"/>
 </p>
