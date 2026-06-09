@@ -1,3 +1,4 @@
+<img width="800" height="800" alt="1780996466573" src="https://github.com/user-attachments/assets/d1753da3-17e9-440b-844f-17cf9544ad22" />
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=header"/>
 </p>
@@ -13,7 +14,7 @@
 ```zsh
 > itatri profile
 ```
-<img align="left" src="https://github.com/user-attachments/assets/9c55840d-bcac-45b8-a09a-ca0af5c3fe7b" alt="Itatri Avatar" width="320"  /> 
+<img align="left" src="https://github.com/user-attachments/assets/60195415-cb1a-447a-9fb1-c0406d7b1480" alt="Itatri Avatar" width="320"  /> 
 
 <p align="right">
 
